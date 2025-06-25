@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 555.09 454.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65c08e;
+      }
+
+      .cls-2 {
+        fill: #55637e;
+      }
+
+      .cls-3 {
+        fill: #98a2b7;
+      }
+
+      .cls-4 {
+        fill: #3fb072;
+      }
+
+      .cls-5 {
+        fill: #f5aa16;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-2" x="26.62" y="131.11" width="387.21" height="190.65"/>
+      <rect class="cls-3" width="437.68" height="137.81" rx="16.06" ry="16.06"/>
+      <rect class="cls-3" y="160.29" width="437.68" height="137.81" rx="16.06" ry="16.06"/>
+      <rect class="cls-3" y="315.84" width="437.68" height="137.81" rx="16.06" ry="16.06"/>
+      <circle class="cls-4" cx="56.19" cy="68.91" r="29.57"/>
+      <circle class="cls-4" cx="56.19" cy="384.75" r="29.57"/>
+      <circle class="cls-5" cx="56.19" cy="229.19" r="29.57"/>
+      <rect class="cls-2" x="127.42" y="54.12" width="273.59" height="29.57" rx="9.68" ry="9.68"/>
+      <rect class="cls-2" x="127.42" y="212.04" width="273.59" height="29.57" rx="9.68" ry="9.68"/>
+      <rect class="cls-2" x="127.42" y="369.96" width="273.59" height="29.57" rx="9.68" ry="9.68"/>
+      <polygon class="cls-1" points="555.09 237.04 440.3 117.62 325.52 237.04 384.45 237.04 384.45 454.05 496.15 454.05 496.15 237.04 555.09 237.04"/>
+    </g>
+  </g>
+</svg>

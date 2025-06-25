@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/docs-acuarela/blog","blogTitle":"Blog","authorsListPath":"/docs-acuarela/blog/authors"}')}}]);
